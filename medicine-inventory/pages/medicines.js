@@ -211,7 +211,7 @@ export default function Medicines() {
       </div>
 
       <div style={{ textAlign: 'center', marginTop: '2rem' }}>
-        <Link href="/">
+        <Link href="/login">
           <button
             style={{
               backgroundColor: '#10b981',
